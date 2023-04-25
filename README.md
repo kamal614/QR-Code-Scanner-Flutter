@@ -2,6 +2,9 @@
 
 A simple application to scan QR Codes usign flutter application, which can easily work on android and iOS both.
 
+Complete video tutorial.
+https://youtu.be/7tDmfZscj7I
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
