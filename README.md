@@ -1,6 +1,6 @@
 # qr_scanner
 
-A new Flutter project.
+A simple application to scan QR Codes usign flutter application, which can easily work on android and iOS both.
 
 ## Getting Started
 
